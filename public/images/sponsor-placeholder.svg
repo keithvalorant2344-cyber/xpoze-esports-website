@@ -1,0 +1,8 @@
+<svg width="360" height="180" viewBox="0 0 360 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="180" rx="8" fill="#0B0714"/>
+  <rect x="18" y="18" width="324" height="144" rx="6" stroke="white" stroke-opacity="0.18" stroke-dasharray="10 10"/>
+  <path d="M101 111L128 69H154L127 111H101Z" fill="#8B5CF6"/>
+  <path d="M151 111L178 69H204L177 111H151Z" fill="#F8F7FF"/>
+  <path d="M201 111L228 69H254L227 111H201Z" fill="#22D3EE"/>
+  <text x="180" y="138" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4" text-anchor="middle">SPONSOR</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="720" height="260" viewBox="0 0 720 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="260" rx="8" fill="#050309"/>
+  <rect x="24" y="24" width="672" height="212" rx="6" stroke="white" stroke-opacity="0.14"/>
+  <path d="M92 84H194L162 130L194 176H92L124 130L92 84Z" fill="#8B5CF6"/>
+  <path d="M139 104H236L214 130L236 156H139L160 130L139 104Z" fill="#22D3EE" fill-opacity="0.92"/>
+  <text x="286" y="121" fill="#F8F7FF" font-family="Arial, sans-serif" font-size="42" font-weight="900" letter-spacing="3">CYBERROOM</text>
+  <text x="288" y="166" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="6">MAURITIUS</text>
+  <path d="M286 188H612" stroke="#8B5CF6" stroke-width="4"/>
+</svg>
