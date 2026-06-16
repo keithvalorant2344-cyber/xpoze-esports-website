@@ -329,9 +329,9 @@ export const partners = [
 ];
 
 export const socials = [
-  { label: "Instagram", href: "#" },
-  { label: "X", href: "#" },
-  { label: "TikTok", href: "#" },
-  { label: "YouTube", href: "#" },
-  { label: "Discord", href: "https://discord.gg/xpoze" }
+  { label: "Instagram", href: "https://www.instagram.com/xpoze.esports/" },
+  { label: "X", href: "https://x.com/XpozeEsports" },
+  { label: "TikTok", href: "https://www.tiktok.com/@xpoze.esports" },
+  { label: "YouTube", href: "https://www.youtube.com/@xpozeesports9997" },
+  { label: "Discord", href: "https://discord.gg/wAwujZmTs7" }
 ];
